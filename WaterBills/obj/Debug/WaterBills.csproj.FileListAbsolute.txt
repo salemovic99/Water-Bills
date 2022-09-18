@@ -1,0 +1,8 @@
+E:\Repos\WaterBills\bin\Debug\WaterBills.exe.config
+E:\Repos\WaterBills\bin\Debug\WaterBills.exe
+E:\Repos\WaterBills\bin\Debug\WaterBills.pdb
+E:\Repos\WaterBills\obj\Debug\WaterBills.csproj.AssemblyReference.cache
+E:\Repos\WaterBills\obj\Debug\WaterBills.csproj.SuggestedBindingRedirects.cache
+E:\Repos\WaterBills\obj\Debug\WaterBills.csproj.CoreCompileInputs.cache
+E:\Repos\WaterBills\obj\Debug\WaterBills.exe
+E:\Repos\WaterBills\obj\Debug\WaterBills.pdb
